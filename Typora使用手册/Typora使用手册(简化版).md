@@ -47,3 +47,22 @@ Typora 的文件导入/导出功能使用 Pandoc 把 Markdown 源码转换成不
 Typora 支持的导入文件格式: .docx, .latex, .tex, .ltx, .rst, .rest, .org, .wiki, .dokuwiki, .textile, .opml, .epub.
 
 Typora 支持的导出文件格式 : HTML, PDF, Docx, odt, rtf, Epub, LaTeX, Media Wiki,Image.
+
+
+
+### Typora中的字体颜色
+
+这个软件使用了一段时间了，感觉不错，但用着用着又感觉颜色太单调了，想设置下颜色但发现这个软件没有什么可以改变颜色的设置，后来去网上看了，原来是字体颜色可以改变的，只不过字体颜色的改变不是在这个界面，而是通过写html来定义颜色<font color=#FF0000>101</font>
+
+常见的颜色设置如下:
+
+<font face="微软雅黑" >微软雅黑字体</font>
+<font face="黑体" >黑体</font>
+<font size=3 >3号字</font>
+<font size=4 >4号字</font>
+<font color=#FF0000 >红色</font>
+<font color=#008000 >绿色</font>
+<font color=#0000FF >蓝色</font>
+![————————————————
+版权声明：本文为CSDN博主「桂小林」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。](F:\笔记\Typora使用手册\assets\字体、字号、颜色设置.png)
+原文链接：https://blog.csdn.net/quintind/java/article/details/79370427
